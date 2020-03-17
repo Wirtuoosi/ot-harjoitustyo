@@ -1,8 +1,8 @@
-#Ohjelmistotekniikka harjoitustyö
+#Ohjelmistotekniikka harjoitustyö<h1>
 
-##Laskaritehtävät
+##Laskaritehtävät<h2>
 
-####Viikko 1
+####Viikko 1<h4>
 
 On **hieman** hankalaa tämä komentorivin käyttö tottumattomalle ja *uudet* asiat gitistä, kun **pitää vielä *etäyhteydellä* näitä koittaa säätää.**
 
