@@ -1,0 +1,93 @@
+commit fe8ed39e202ba3e5420cc1bfd8889f70b7831694
+Author: Joonas Ylönen <Wirtuoosi-@hotmail.com>
+Date:   Tue Mar 17 22:05:12 2020 +0200
+
+    tiedosto file1 poistettu, tiedosto file2 nimetty uudestaan
+
+ tiedostoja/file2             | 0
+ tiedostoja/{file1 => file22} | 0
+ 2 files changed, 0 insertions(+), 0 deletions(-)
+
+commit 37cc80ed4fdeee6f624bf1c5401b65d3e3cdde01
+Author: Joonas Ylönen <Wirtuoosi-@hotmail.com>
+Date:   Tue Mar 17 21:52:40 2020 +0200
+
+    uusi kansiollinen tiedostoja lisätty
+
+ tiedostoja/file1 | 0
+ tiedostoja/file2 | 0
+ tiedostoja/file3 | 0
+ 3 files changed, 0 insertions(+), 0 deletions(-)
+
+commit 6d0fc770fc056d5543c7f271ae304b3f402a0c01
+Author: Joonas Ylönen <Wirtuoosi-@hotmail.com>
+Date:   Tue Mar 17 21:41:41 2020 +0200
+
+    tiedosto.txt uudelleen nimetty eka.txt:ksi
+
+ tiedosto.txt => eka.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit 433df7f01c506e22bc5ef9c038c81abe92cd452b
+Author: Joonas Ylönen <Wirtuoosi-@hotmail.com>
+Date:   Tue Mar 17 21:38:22 2020 +0200
+
+    toinen.txt poistettu
+
+ toinen.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit 6637ca7632e10f036219fb037071e160dc10c277
+Author: Joonas Ylönen <Wirtuoosi-@hotmail.com>
+Date:   Tue Mar 17 21:33:42 2020 +0200
+
+    tiedostoa tiedosto.txt muutettu
+
+ tiedosto.txt | 15 ++++++++-------
+ 1 file changed, 8 insertions(+), 7 deletions(-)
+
+commit 72f3fab58c1f09a6fef094f31a32f04d1bce0ca6
+Author: Joonas Ylönen <Wirtuoosi-@hotmail.com>
+Date:   Tue Mar 17 21:28:44 2020 +0200
+
+    teksti lisätty tiedostoon tiedosto.txt
+
+ tiedosto.txt | 18 +++++++++++++++++-
+ 1 file changed, 17 insertions(+), 1 deletion(-)
+
+commit 81af81867fdbc553bad357b735562cade2093de1
+Author: Joonas Ylönen <Wirtuoosi-@hotmail.com>
+Date:   Tue Mar 17 21:12:58 2020 +0200
+
+    kansio ja sinne tiedosto lisätty
+
+ stuff/tiedosto.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit 8bd42fff1db16a3b465bf7e4588d59748c6b72f5
+Author: Joonas Ylönen <Wirtuoosi-@hotmail.com>
+Date:   Tue Mar 17 21:10:24 2020 +0200
+
+    kolmas.txt lisätty
+
+ kolmas.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit 406ff04e553bb8f54b4fe89cb90c24bd497cf508
+Author: Joonas Ylönen <Wirtuoosi-@hotmail.com>
+Date:   Tue Mar 17 19:51:46 2020 +0200
+
+    muutos ja lisäys
+
+ tiedosto.txt | 1 +
+ toinen.txt   | 0
+ 2 files changed, 1 insertion(+)
+
+commit e148652fcb8679a49e524c8e37aa7eb083f3c3d5
+Author: Joonas Ylönen <Wirtuoosi-@hotmail.com>
+Date:   Tue Mar 17 19:47:14 2020 +0200
+
+    tiedosto.txt luotu
+
+ tiedosto.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
