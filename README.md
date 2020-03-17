@@ -1,12 +1,10 @@
-
 #Ohjelmistotekniikka harjoitustyö
 
-##Tehtävät
+##Laskaritehtävät
 
-#### Viikko 1
+####Viikko 1
 
-Uutta ja **erikoista** tämä *komentorivin* käyttö, sekä **hieman hankalaa, kun**
-**pitää *etäyhteydellä* vielä näitä vääntää.**
+On **hieman** hankalaa tämä komentorivin käyttö tottumattomalle ja *uudet* asiat gitistä, kun **pitää vielä *etäyhteydellä* näitä koittaa säätää.**
 
-[gitlog.txt](https://github.com/Wirtuoosi/ot-harjoitustyo/blob/master/laskarit/$
-[komentorivi.txt](https://github.com/Wirtuoosi/ot-harjoitustyo/blob/master/lask$
+[gitlog.txt](https://github.com/Wirtuoosi/ot-harjoitustyo/blob/master/laskarit/viikko1/gitlog.txt)
+[komentorivi.txt](https://github.com/Wirtuoosi/ot-harjoitustyo/blob/master/laskarit/viikko1/komentorivi.txt)
