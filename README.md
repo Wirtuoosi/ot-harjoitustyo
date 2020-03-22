@@ -8,5 +8,3 @@ On **hieman** hankalaa tämä komentorivin käyttö tottumattomalle ja *uudet* a
 
 [gitlog.txt](https://github.com/Wirtuoosi/ot-harjoitustyo/blob/master/laskarit/viikko1/gitlog.txt)
 [komentorivi.txt](https://github.com/Wirtuoosi/ot-harjoitustyo/blob/master/laskarit/viikko1/komentorivi.txt)
-
-Testi paikallisen koneen GitHub yhteydelle
