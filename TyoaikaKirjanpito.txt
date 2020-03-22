@@ -1,0 +1,2 @@
+Päivä:		Aika:		Mitä tein:
+22.3.2020	2h		Asensin Java 11 läppärille, Yhdistin GitHub repositorion läppärille
